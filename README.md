@@ -1,1 +1,2 @@
 # odin-recipes
+Esse projeto foi feito com objetivo de ajudar pessoas que gostam dos pratos mas não tem acesso a receitas. Meu objetivo foi tornar acessível receitas de pratos comuns e acessíveis ao brasileiro.
